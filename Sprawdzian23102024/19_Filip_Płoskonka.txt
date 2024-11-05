@@ -1,9 +1,0 @@
-Zadanie 1
-Pliki FXML w projekcie JavaFX służą do definiowania wyglądu aplikacji, a łączymy je z kontrolerem, dodając odniesienie do klasy kontrolera w pliku FXML, np. w elemencie VBox za pomocą atrybutu fx:controller="".
-
-Zadanie 2
-Tworzymy loader, z którego wczytujemy elementy z pliku FXML -> tworzymy stage, na którym wyświetlamy okno aplikacji -> ustawiamy nową scenę, korzystając z załadowanego loadera -> przypisujemy scenę do stage -> pokazujemy stage.
-
-Zadanie 3
-ComboBox to lista rozwijana, z której można wybrać jeden element; może służyć do wyboru np. płci, gdzie użytkownik wybiera swoją (są dwie opcje: mężczyzna i kobieta).
-
